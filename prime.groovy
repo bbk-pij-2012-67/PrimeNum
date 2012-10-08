@@ -15,4 +15,4 @@ while(divr<num){
       }
     }
   println "Thank you";
-  print " sir. See you again later";
+  print " sir. See you again tomorrow.";
