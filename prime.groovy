@@ -1,5 +1,3 @@
-println "This program determines if a number is prime"
-print "Enter something: "
 String str = System.console().readLine();
 int num =Integer.parseInt(str);
 int divr=1;
