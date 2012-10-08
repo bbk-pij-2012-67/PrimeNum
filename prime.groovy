@@ -1,3 +1,4 @@
+println "Enter a number: ";
 String str = System.console().readLine();
 int num =Integer.parseInt(str);
 int divr=1;
