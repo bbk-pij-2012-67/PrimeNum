@@ -1,4 +1,4 @@
-String str = System.console().readline();
+String str = System.console().readLine();
 int num =Integer.parseInt(str);
 int divr=1;
 while(divr<num){
